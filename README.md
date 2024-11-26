@@ -22,6 +22,3 @@ The **Air Lasso Tool** is a real-time drawing application that tracks a selected
 - Python 3.x
 - OpenCV
 - NumPy
-
-## Installation
-1. Clone the repository:
